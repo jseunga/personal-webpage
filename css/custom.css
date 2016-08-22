@@ -1,0 +1,56 @@
+.nav li a {
+	color:  #ff751a;
+}
+
+.nav li a:hover {
+	background: transparent;
+	border: 2px dashed #ff3300;
+}
+
+.header h3 a {
+	color: #bfbfbf;
+}
+
+.header h3 a:hover {
+	text-decoration: none;
+	color: #ff8533;
+}
+
+.lead {
+	font-size: 20px;
+	text-align: auto;
+	color: #595959;
+}
+
+dd {
+	padding-top: 3px;
+}
+
+kbd {
+	background:  #ff751a;
+	font-weight: bold;
+}
+
+.blog-post-title {
+	font-family: cursive;
+}
+
+li a {
+	color: #1bc98e;
+}
+
+.blog-post-meta a {
+	color: #ff8533 ;
+}
+
+.well ol li {
+	padding-bottom: 10px
+}
+
+.footer {
+	text-align: center;
+	font-size: 12px ;
+	color: #ff9933;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
